@@ -1,16 +1,13 @@
-### Hi there 👋
+### Hi there, I'm Aniket Shewale👋
 
-<!--
-**AniketShewale266/AniketShewale266** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+🌱 What I'm All About
+- I'm always curious and eager to try out new technologies and tools.
+- Solving real-world problems through software development.
+- I'm determined to grow as a developer and make my mark in this field.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📫 Connect with Me
+
+- GitHub: https://github.com/AniketShewale266
+- LinkedIn: https://www.linkedin.com/in/aniket-shewale-193118233/
+
